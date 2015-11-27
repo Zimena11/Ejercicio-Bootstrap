@@ -1,5 +1,7 @@
-/* Inserta tu código aqui */
-/*css de la columna 3 mas informacion*/
+*
+{
+	outline: 1px solid blue;
+}
 .informacion
 {
 	border-bottom:  #A9A9A9;
